@@ -3,5 +3,10 @@
 }
 .author {
   color: red;
+}
+p.author {
   font-size: 12px;
+}
+h3.author{
+  font-style: italic;
 }
